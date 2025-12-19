@@ -15,6 +15,12 @@ Game features:
 - Music from the original columns game.
 - Pause/unpause by pressing P.
 
+How to run the game:
+- Open file `columns-1.asm` in Saturn.
+- Click the Bitmap Tab
+- Click on the display to connect your keyboard.
+- Press the Play button in the top right.
+
 # Video Demo
 https://github.com/user-attachments/assets/51cead6f-ce4e-4ed2-be5e-8e7c088549d5
 
