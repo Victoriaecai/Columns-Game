@@ -1,7 +1,7 @@
 ################# CSC258 Assembly Final Project ###################
 # This file contains my implementation of Columns.
 #
-# Student 1: Victoria Cai, 1011276281
+# Student 1: Victoria Cai
 #
 # I assert that the code submitted here is entirely my own 
 # creation, and will indicate otherwise when it is not.
